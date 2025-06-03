@@ -7,6 +7,7 @@ This project conducts an RFM (Recency, Frequency, Monetary) analysis on customer
 
 ## Data Sources
 
+Download link: `https://drive.google.com/uc?export=download&id=1W5hV-pvCsq-gcWTkommR19HQbF7wK00H`
 1.  **`accounts`**: Contains account information.
     * Expected columns (in order): `login`, `client_id`, `age_segment`, `sex_type`, `canal`, `client_type`.
 2.  **`balance.csv`**: Contains client balance information.
